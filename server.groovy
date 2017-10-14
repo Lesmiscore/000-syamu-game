@@ -1,4 +1,4 @@
-@Grab('com.github.nao20010128nao:HttpServerJava:5b6c693ea7')
+@Grab('com.github.nao20010128nao:HttpServerJava:3962b51')
 @GrabResolver(name='jitpack',root='https://jitpack.io')
 import net.freeutils.httpserver.HTTPServer
 
